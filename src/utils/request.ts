@@ -11,8 +11,7 @@ export function getBaseUrl() {
     miniProgram: { envVersion },
   } = Taro.getAccountInfoSync();
   console.log('运行环境:', envVersion);
-  return `http://testing.foundation-frontend.jscoe.cn/api`;
-  // http://testing.foundation-frontend.jscoe.cn/
+  return `http://`;
 }
 const showErrorToast = (msg: string) => {
   Taro.showToast({

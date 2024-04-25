@@ -1,4 +1,4 @@
-# 皮带管家--小程序端
+# Taro3+React+Echarts项目模板
 
 这个项目使用 Taro3 + Taro-ui + TypeScript 
 
