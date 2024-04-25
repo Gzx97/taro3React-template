@@ -1,8 +1,9 @@
 # Taro3+React+Echarts项目模板
 
-这个项目使用 Taro3 + Taro-ui + TypeScript 
+这个项目使用 Taro3 + Taro-ui + TypeScript ，把官方案例踩的一些坑都解决了，并且封装了请求、图表等进去，配置了提交规范和代码检查，开箱即用，如果你希望使用React快速开始一个小程序项目，可以直接来用，直接塞页面进去就好。
 
 - [图表库使用 taro-react-echarts](https://taro-ext.jd.com/plugin/view/62d610ef53a8a975043e7f2c)
+- [踩的部分坑记录](https://www.yuque.com/quehei/499/aq6i1ocd4g0m1f0z)
 
 ## 快速开始
 
